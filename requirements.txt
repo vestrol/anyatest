@@ -8,3 +8,4 @@ scipy
 streamlit
 ffmpy
 streamlit_analytics
+streamlit-extras
